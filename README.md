@@ -1,0 +1,9 @@
+# cybermomentum-web
+CyberSecurity Momentum. Sentiment analysis over CyberSecurity Information Community
+
+Information plays a key role in modern society, it can elevate a topic or destruct an entire brand in a metter of minutes. During the last decades information  took an important speed-up thanks to social media, the public and free method to spread uncontrolled and "uncensured" news over internet. People reading interesting information tend to act in an uncontrolled way by sharing it, sometimes,  in a way that makes it "viral". Especially in the cybersecurity field it is really important to feel the information momentum. For example figuring out if the information is shared by verified sources or where it starts the pandemia or again what is the general sentiment about such a topic and what is the magnitude of the information spreading community. For security researchers or for security journalist is important to evaluate the current cybersecurity momentum for understand what is the general feeling about that topic in a given amount of time.
+
+CyberSecurityMomentum addresses those specific questions by giving a "nerdy" (and premature, and beta, and incomplete, and .. and .. and..) dashboard in order to build a self-idea about cybersecurity in a specific amount of time. Every observation has been performed through a Tick. A Tick is a specific unknown amount of time approximately every 60minutes into a specific and well-known time frame in where the system performs observations. The general performed observations are made on social media over known hashtags (mainly in plain english) about well-known cybersecurity keywords and channels. The results have been made available through a simple not interactive webpage, acting as an instant report.
+
+
+![Image of Yaktocat](https://github.com/marcoramilli/cybermomentum-web/blob/master/assets/img/portfolio/3.jpg)
